@@ -60,6 +60,8 @@
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </div>
 <hr>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev-Krishan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lucifer_twtt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
