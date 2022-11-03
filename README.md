@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dev Krishan (Lucifer)</h1>
+<h1 align="center">Hi 👋, I'm Yagami Aggarwal</h1>
 <h3 align="center">Data Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-krishan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-krishan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-krishan" alt="dev-krishan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lucifer_twtt" target="blank"><img src="https://img.shields.io/twitter/follow/lucifer_twtt?logo=twitter&style=for-the-badge" alt="lucifer_twtt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lucifer_twtt" target="blank"><img src="https://img.shields.io/twitter/follow/lucifer_twtt?logo=twitter&style=for-the-badge" alt="@yagami_twt" /></a> </p>
 
 
 - 🌱 I’m currently learning **Quantum Machine learning😎 and Blockchain 😍.**
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, ML, Tensorflow, Keras.**
 
-- 📫 How to reach me **devkrishan09@gmail.com**
+- 📫 How to reach me **secretdesire071@gmail.com**
 
 - ⚡ Fun fact **I work for cookies.**
 
@@ -59,6 +59,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lucifer_twtt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://twitter.com/yagami_twt" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dev-krishan" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
