@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yagami Aggarwal</h1>
-<h3 align="center">Data Scientist.</h3>
+<h3 align="center">Java Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-krishan&label=Profile%20views&color=0e75b6&style=flat" alt="dev-krishan" /> </p>
 
@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://twitter.com/yagami_twt" target="blank"><img src="https://img.shields.io/twitter/follow/yagami_twt?logo=twitter&style=for-the-badge" alt="yagami_twt" /></a> </p>
 
 
-- 🌱 I’m currently learning **Quantum Machine learning😎 and Blockchain 😍.**
+- 🌱 I’m currently mastering **SpringBoot😎, AI 😍 and blockchain.**
 
-- 👯 I’m looking to collaborate on **any machine learning project based on NLP and Computer vision.**
+- 👯 I’m looking to collaborate on **any backend project.**
 
-- 💬 Ask me about **Python, ML, Tensorflow, Keras.**
+- 💬 Ask me about **Python, ML, Java, LLM, SpringBoot, React.**
 
 - 📫 How to reach me **secretdesire071@gmail.com**
 
